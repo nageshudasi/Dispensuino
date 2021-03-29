@@ -8,3 +8,8 @@ GLCD(128x64 pixel monochrome)
 A PUMP with relay, depending on the type of fluid desired to be dispensed . 
 SD card(4GB) and a SD card module 
 Power source(Battery or DC adapter)
+
+Libraries required:
+tmrPCM
+SD
+openGLCD
